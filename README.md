@@ -7,6 +7,22 @@ The goal of this project is to analyze and interpret a healthcare dataset that i
 
 Health Care Dataset: The primary data set used for this analysis is the "healthcare_dataset.csv", which contains a comprehensive informations about various illnesses, healthcare providers, insurance etc.
 
+### Data Dictionary
+1.	Billing Amount: The total amount billed for healthcare services within a specific timeframe.
+2.	Doctors: The count of medical professionals available in the dataset, and their names indicating healthcare providers availability.
+3.	Medical Conditions: A list of medical conditions treated, which may impact billing and resources needs.
+4.	Number of Hospitals: The count of hospitals included in the datasets, providing context for the distributions.
+5.	Date of Admission: This is the date, which a patient is being admitted in a hospital.
+6.	Medication: This is the drug given to different patients with different medical conditions. 
+7.	Blood Type: The different blood types associated with different patients.
+8.	Test: The different test carried out on patients with different medical conditions.
+9.	Full Name: The count of patients with different medical conditions, and their full names
+10.	Discharge Date: This is the date, which a patient is being discharged from the hospital.
+11.	Room Number: The different room number in the different hospitals.
+12.	Gender: The sex of different patient.
+13.	Admission Type: The different admission status of patients with different medical conditions.
+
+
 ### Tools
 
 - Excel - Data collection and Data Cleaning
