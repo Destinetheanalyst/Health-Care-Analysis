@@ -17,6 +17,10 @@
 ### Project Overview
 The goal of this project is to analyze and interpret a healthcare dataset that includes key variables such as total billing amount, number of doctors, medical conditions, and number of hospitals. The analysis aims to uncover insights into healthcare billing trends, resources allocation, and the impact of medical conditions on costs.
 
+![H1](https://github.com/user-attachments/assets/6e836fa3-d6ce-47fb-bef8-5d8fadc3533c)
+
+
+
 ### Data Source
 
 Health Care Dataset: The primary data set used for this analysis is the "healthcare_dataset.csv", which contains a comprehensive informations about various illnesses, healthcare providers, insurance etc.
@@ -76,6 +80,9 @@ EDA involved exploring the Health Care data to answer key questions, such as:
 - 8 blood types were discovered during analysis.
 - The analysis was carried out on 6 medical conditions.
 - The patients used a total of 5 insurance providers.
+
+![H2](https://github.com/user-attachments/assets/77a122f8-6a01-4a26-8f57-280f85a32a43)
+
 
 ### Health Insights
 - The most frequent blood type is A blood type having a total of 6898 patients which makes up 12.6% of total patients. O- blood type is the least blood type having a total of 6804 patients and 12.4% of the total patients.
