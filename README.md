@@ -1,5 +1,19 @@
 # Health-Care-Analysis
 
+### Table of Content
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Data Dictionary](#data-dictionary)
+- [Tools](#tools)
+- [Data Collection and Data Cleaning](#data-collection-and-data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [General Insights](#general-insights)
+- [Health Insights](#health-insights)
+- [Financial Insights](#financial-insights)
+- [Recommendation](#recommendation)
+- [Limitations](#limitations)
+- [Conclusion](#conclusion)
+
 ### Project Overview
 The goal of this project is to analyze and interpret a healthcare dataset that includes key variables such as total billing amount, number of doctors, medical conditions, and number of hospitals. The analysis aims to uncover insights into healthcare billing trends, resources allocation, and the impact of medical conditions on costs.
 
